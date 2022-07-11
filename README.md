@@ -5,7 +5,7 @@ A backup repository for PSFj: a convenient tool for analyzing 3D PSF data to est
 
 
 ## Quick start:
-- Download the repository and run **"psfj.exe"**.
+- Download the repository and run **"psfj.exe"** (install **Java** dependency if needed).
 - Drag and drop your image stack into the GUI and follow the instructions.
 - You'll need to know the **XYZ pixel size** of the data and have **good SNR** for meaningful results.
 
